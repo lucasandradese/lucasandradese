@@ -9,24 +9,21 @@ Me chamo Lucas Andrade, tenho 28 anos, natural de Sergipe. Graduado em Engenhari
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<h5>Linguagens:</h5>
 <div style="display: inline_block">
 <img align="center",alt="html", src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</div><hr/>
+</div></br>
 
-<h5>Frameworks:</h5>
 <div style="display: inline_block">
 <img align="center",alt="html", src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-</div><hr/>
+</div></br>
 
-<h5>Outros:</h5>
 <div style="display: inline_block">
 <img align="center",alt="html", src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center",alt="html", src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
