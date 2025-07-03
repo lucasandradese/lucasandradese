@@ -2,9 +2,8 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Lucas Andrade, tenho 28 anos, natural de Sergipe. Graduado em Engenharia de Alimentos e cursando Análise e Desenvolvimento de Sistemas.
+Me chamo Lucas Andrade, tenho 28 anos, natural de Sergipe. Graduado em Engenharia de Alimentos pela UFS e cursando Análise e Desenvolvimento de Sistemas.
 
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://lucas-dev.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l_andrade0?igsh=djVpazhxOTliZnY4&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkeind.xom.br)
 
