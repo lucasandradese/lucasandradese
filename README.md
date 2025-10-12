@@ -31,6 +31,6 @@ Me chamo Lucas Andrade, tenho 28 anos, natural de Sergipe. Graduado em Engenhari
 <h2>Estatística</h2>
 
 ![Lucas Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasandradese&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradese&&theme=dracula&&layout=compact&custom_title=Tecnologias&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradese&&theme=dracula&&layout=compact&custom_title=Tecnologias&langs_count=10)
 
 Sou desenvolvedor apaixonado por tecnologia, soluções criativas e aprendizado contínuo.
