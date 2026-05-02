@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack | Java + Spring Boot | Angular**
 
-Tenho 28 anos, sou de Sergipe e estou em transição de carreira da Engenharia de Alimentos (UFS) para a área de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas.
+Natural de Sergipe e estou em transição de carreira da Engenharia de Alimentos (UFS) para a área de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 Atuo no desenvolvimento de aplicações web com foco em **backend robusto**, modelagem de banco de dados e construção de APIs seguras e escaláveis. Tenho experiência prática com projetos reais envolvendo autenticação, controle de acesso e regras de negócio.
 
