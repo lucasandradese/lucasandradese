@@ -8,9 +8,9 @@ Atuo no desenvolvimento de aplicações web com foco em **backend robusto**, mod
 
 ---
 
-### 🚀 Tecnologias e Stack Principal
+###  Tecnologias e Stack Principal
 
-#### 🧠 Backend
+####  Backend
 
 * Java + Spring Boot
 * Spring Data JPA (Hibernate)
@@ -18,13 +18,13 @@ Atuo no desenvolvimento de aplicações web com foco em **backend robusto**, mod
 * APIs RESTful
 * Modelagem de banco de dados relacional
 
-#### 🎨 Frontend
+####  Frontend
 
 * Angular
 * Integração com APIs REST
 * Estruturação de aplicações SPA
 
-#### 🗄️ Banco de Dados
+####  Banco de Dados
 
 * PostgreSQL
 * Modelagem relacional (ER, normalização, constraints)
@@ -32,7 +32,7 @@ Atuo no desenvolvimento de aplicações web com foco em **backend robusto**, mod
 
 ---
 
-### 📈 Estatísticas
+###  Estatísticas
 
 
 ![Lucas Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasandradese&show_icons=true&theme=dracula)
