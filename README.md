@@ -1,36 +1,93 @@
 ### 👨🏾‍💻 Lucas Andrade
 
-**`Desenvolvedor Full Stack`**
+**Desenvolvedor Full Stack | Java + Spring Boot | Angular**
 
-Me chamo Lucas Andrade, tenho 28 anos, natural de Sergipe. Graduado em Engenharia de Alimentos pela UFS e cursando Análise e Desenvolvimento de Sistemas.
+Tenho 28 anos, sou de Sergipe e estou em transição de carreira da Engenharia de Alimentos (UFS) para a área de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l_andrade0?igsh=djVpazhxOTliZnY4&utm_source=qr)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasandradese)
+Atuo no desenvolvimento de aplicações web com foco em **backend robusto**, modelagem de banco de dados e construção de APIs seguras e escaláveis. Tenho experiência prática com projetos reais envolvendo autenticação, controle de acesso e regras de negócio.
 
-### 🛠️ Tecnologias e Ferramentas
+---
 
-<div style="display: inline_block">
-<img align="center",alt="html", src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="center",alt="html", src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</div></br>
+### 🚀 Tecnologias e Stack Principal
 
-<div style="display: inline_block">
-<img align="center",alt="html", src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="center",alt="html", src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="center",alt="html", src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-</div></br>
+#### 🧠 Backend
 
-<div style="display: inline_block">
-<img align="center",alt="html", src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center",alt="html", src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center",alt="html", src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="center",alt="html", src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center",alt="html", src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div><hr/>
+* Java + Spring Boot
+* Spring Data JPA (Hibernate)
+* Spring Security (autenticação e autorização)
+* APIs RESTful
+* Modelagem de banco de dados relacional
 
-<h2>Estatística</h2>
+#### 🎨 Frontend
+
+* Angular
+* Integração com APIs REST
+* Estruturação de aplicações SPA
+
+#### 🗄️ Banco de Dados
+
+* PostgreSQL
+* Modelagem relacional (ER, normalização, constraints)
+* Queries avançadas e otimização
+
+#### ⚙️ Ferramentas
+
+* Git & GitHub
+* Maven
+* Postman / Insomnia
+
+---
+
+### 🧩 Projetos e Experiência Prática
+
+✔ **Sistema de gerenciamento de filmes**
+
+* CRUD completo com validações de negócio
+* Relacionamentos complexos (ManyToMany)
+* Controle de duplicidade e regras de domínio
+* Estrutura pronta para expansão
+
+✔ **Sistema de autenticação e autorização**
+
+* Implementação com Spring Security
+* Controle de usuários, permissões e status de conta
+* Modelagem de roles e permissions
+* Estrutura preparada para JWT
+
+✔ **Modelagem de banco de dados**
+
+* Criação de diagramas ER
+* Definição de constraints, chaves e integridade
+* Estruturação de tabelas intermediárias (N:N)
+* Boas práticas para produção
+
+✔ **Projeto de gestão financeira (em evolução)**
+
+* Controle de receitas e despesas
+* Estrutura escalável para relatórios e métricas
+* Organização de domínio e entidades
+
+---
+
+### 📈 Estatísticas
+
 
 ![Lucas Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasandradese&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradese&&theme=dracula&&layout=compact&custom_title=Tecnologias&langs_count=10)
 
-Sou desenvolvedor apaixonado por tecnologia, soluções criativas e aprendizado contínuo.
+---
+
+### 📫 Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://www.instagram.com/l_andrade0)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucasandradese)
+
+---
+
+### 💡 Sobre mim
+
+Sou um desenvolvedor focado em evolução constante, com interesse especial em **backend, arquitetura de sistemas e boas práticas de desenvolvimento**.
+
+Busco oportunidades onde eu possa contribuir com soluções reais e continuar evoluindo como engenheiro de software.
+
