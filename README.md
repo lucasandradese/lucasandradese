@@ -30,43 +30,6 @@ Atuo no desenvolvimento de aplicações web com foco em **backend robusto**, mod
 * Modelagem relacional (ER, normalização, constraints)
 * Queries avançadas e otimização
 
-#### ⚙️ Ferramentas
-
-* Git & GitHub
-* Maven
-* Postman / Insomnia
-
----
-
-### 🧩 Projetos e Experiência Prática
-
-✔ **Sistema de gerenciamento de filmes**
-
-* CRUD completo com validações de negócio
-* Relacionamentos complexos (ManyToMany)
-* Controle de duplicidade e regras de domínio
-* Estrutura pronta para expansão
-
-✔ **Sistema de autenticação e autorização**
-
-* Implementação com Spring Security
-* Controle de usuários, permissões e status de conta
-* Modelagem de roles e permissions
-* Estrutura preparada para JWT
-
-✔ **Modelagem de banco de dados**
-
-* Criação de diagramas ER
-* Definição de constraints, chaves e integridade
-* Estruturação de tabelas intermediárias (N:N)
-* Boas práticas para produção
-
-✔ **Projeto de gestão financeira (em evolução)**
-
-* Controle de receitas e despesas
-* Estrutura escalável para relatórios e métricas
-* Organização de domínio e entidades
-
 ---
 
 ### 📈 Estatísticas
